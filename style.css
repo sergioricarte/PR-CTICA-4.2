@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    font-weight: bold;
+    color:brown;
+
+}
+body{
+    background-color: burlywood;
+}
+img.tamaño{
+height: 150px;
+width: 150px;
+}
+img.café{
+height: 150px;
+width: 150px;
+}
+p.centrar{
+text-align: center;
+}
+p.contacto{
+    margin-left: 1000px;
+}
